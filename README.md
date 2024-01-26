@@ -18,3 +18,8 @@ Change the algorithm settings to find the best combination of parameters. You ca
 ![Galaxy Simulator 03](https://github.com/cont-kolomeets/galaxy-simulator/assets/5318527/3be429a8-cc0a-4ca5-8db0-a6a7f8d2ec05)
 
 ![simulation](https://github.com/cont-kolomeets/galaxy-simulator/assets/5318527/8216e4cb-5775-45d5-aa63-32196d30b05e)
+
+# 2 Galaxies
+
+![simulation](https://github.com/cont-kolomeets/galaxy-simulator/assets/5318527/65bd5e5c-d4a5-4a7d-878f-614312f09ad9)
+
